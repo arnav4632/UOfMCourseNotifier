@@ -2,8 +2,7 @@ name: PHYS 1301W Lab Section Monitor
 
 on:
   schedule:
-    # :25 and :55
-    - cron: "25,55 * * * *"
+    - cron: "22 * * * *"
   workflow_dispatch: {}  # lets you trigger a manual run from the Actions tab
 
 # Needed so the job can commit the updated state.json back to the repo
