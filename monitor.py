@@ -169,14 +169,16 @@ def diff_sections(old: dict, new_sections: list[dict]) -> list[str]:
 
 
 def send_discord(lines: list[str]) -> None:
-    if not DISCORD_WEBHOOK_URL:
-        print("DISCORD_WEBHOOK_URL not set - skipping notification. Changes were:")
-        for l in lines:
-            print("  " + l)
-        return
+    if lines:
+        header = f"**@everyone {SUBJECT} {COURSE_NUMBER} — section changes detected:**\n"
+        message = header + "\n".join(lines)
+    else:
+        message = f"✅ {SUBJECT} {COURSE_NUMBER} monitor ran, no changes since last poll."
 
-    header = f"**{SUBJECT} {COURSE_NUMBER} — section changes:**\n"
-    message = header + "\n".join(lines)
+    if not DISCORD_WEBHOOK_URL:
+        print("DISCORD_WEBHOOK_URL not set - skipping notification. Message would have been:")
+        print(message)
+        return
 
     # Discord's hard limit is 2000 chars per message; split if needed.
     chunks = []
@@ -191,7 +193,16 @@ def send_discord(lines: list[str]) -> None:
         message = message[split_at:]
 
     for chunk in chunks:
-        resp = requests.post(DISCORD_WEBHOOK_URL, json={"content": chunk})
+        resp = requests.post(
+            DISCORD_WEBHOOK_URL,
+            json={
+                "content": chunk,
+                # explicitly allow the @everyone mention to actually ping -
+                # Discord requires this be opted into per-message, otherwise
+                # "@everyone" is sent as inert plain text
+                "allowed_mentions": {"parse": ["everyone"]},
+            },
+        )
         resp.raise_for_status()
 
 
@@ -209,9 +220,10 @@ def main():
         print(f"{len(changes)} change(s) detected:")
         for l in changes:
             print("  " + l)
-        send_discord(changes)
     else:
         print("No changes since last poll.")
+
+    send_discord(changes)
 
     save_state(all_sections)
 
