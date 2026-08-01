@@ -1,0 +1,13 @@
+Total frames found: 4
+
+[0] name='(no name)'  url=https://www.myu.umn.edu/psp/psprd/EMPLOYEE/CAMP/c/SA_LEARNER_SERVICES.CLASS_SEARCH.GBL?
+    -> saved to frame_0_(no name).html  (56444 chars)
+
+[1] name='TargetContent'  url=https://cs.myu.umn.edu/psc/csprd/EMPLOYEE/CAMP/c/SA_LEARNER_SERVICES.CLASS_SEARCH.GBL?PortalActualURL=https%3a%2f%2fcs.myu.umn.edu%2fpsc%2fcsprd%2fEMPLOYEE%2fCAMP%2fc%2fSA_LEARNER_SERVICES.CLASS_SEARCH.GBL&PortalContentURL=https%3a%2f%2fcs.myu.umn.edu%2fpsc%2fcsprd%2fEMPLOYEE%2fCAMP%2fc%2fSA_LEARNER_SERVICES.CLASS_SEARCH.GBL&PortalContentProvider=CAMP&PortalCRefLabel=UM%20FSS%20-%20Class%20Search&PortalRegistryName=EMPLOYEE&PortalServletURI=https%3a%2f%2fwww.myu.umn.edu%2fpsp%2fpsprd%2f&PortalURI=https%3a%2f%2fwww.myu.umn.edu%2fpsc%2fpsprd%2f&PortalHostNode=EMPL&NoCrumbs=yes&PortalKeyStruct=yes&PTPN_POPUP_WINDOW
+    -> saved to frame_1_TargetContent.html  (74532 chars)
+
+[2] name='RelatedContent'  url=about:blank
+    -> saved to frame_2_RelatedContent.html  (39 chars)
+
+[3] name='SRelatedContent'  url=about:blank
+    -> saved to frame_3_SRelatedContent.html  (39 chars)
