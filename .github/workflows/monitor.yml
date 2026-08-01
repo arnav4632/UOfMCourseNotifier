@@ -2,9 +2,8 @@ name: PHYS 1301W Lab Section Monitor
 
 on:
   schedule:
-    # Every 30 minutes. GitHub Actions cron can lag a few minutes under load -
-    # that's fine for this use case.
-    - cron: "*/30 * * * *"
+    # offset to avoid high demand time
+    - cron: "24,54 * * * *"
   workflow_dispatch: {}  # lets you trigger a manual run from the Actions tab
 
 # Needed so the job can commit the updated state.json back to the repo
