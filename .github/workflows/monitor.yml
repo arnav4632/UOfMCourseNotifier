@@ -1,4 +1,4 @@
-name: PHYS 1301W Lab Section Monitor
+name: PHYS 1301W Section Monitor
 
 on:
   schedule:
@@ -27,23 +27,10 @@ jobs:
           python-version: "3.12"
           cache: "pip"
 
-      - name: Cache Playwright browsers
-        uses: actions/cache@v4
-        id: playwright-cache
-        with:
-          path: ~/.cache/ms-playwright
-          key: playwright-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
-
+      # No browser needed anymore - raw HTTP requests only, so this whole
+      # job should run in well under 10 seconds now instead of 30-60s.
       - name: Install dependencies
         run: pip install -r requirements.txt
-
-      - name: Install Playwright browser (if not cached)
-        if: steps.playwright-cache.outputs.cache-hit != 'true'
-        run: playwright install --with-deps chromium
-
-      - name: Install Playwright OS dependencies (cache hit case)
-        if: steps.playwright-cache.outputs.cache-hit == 'true'
-        run: playwright install-deps chromium
 
       - name: Run monitor
         env:
