@@ -14,6 +14,24 @@ from bs4 import BeautifulSoup
 
 CLASS_NBR_RE = re.compile(r"^win0divMTG_CLASS_NBR\$(\d+)$")
 
+# PeopleSoft's ICAJAX=1 responses wrap the real page content as escaped text
+# inside a CDATA block: <FIELD id='win0divPAGECONTAINER'><![CDATA[ ...actual
+# HTML... ]]></FIELD>. Python's html.parser has no defined behavior for CDATA
+# sections (not valid HTML syntax), so asking it to parse straight through
+# one is undefined/inconsistent - it happened to recover correctly once and
+# silently failed the next time. Pulling the real HTML out as plain text
+# first, before handing it to BeautifulSoup, removes that ambiguity entirely.
+PAGECONTAINER_CDATA_RE = re.compile(
+    r"<FIELD id='win0divPAGECONTAINER'><!\[CDATA\[(.*?)\]\]></FIELD>",
+    re.DOTALL,
+)
+
+
+def _unwrap_cdata(html: str) -> str:
+    m = PAGECONTAINER_CDATA_RE.search(html)
+    return m.group(1) if m else html  # fall back to raw input if not wrapped
+    # (e.g. a plain, non-AJAX HTML page - keeps this working either way)
+
 
 def _text(soup, id_, sep=" "):
     el = soup.find(id=id_)
@@ -23,6 +41,7 @@ def _text(soup, id_, sep=" "):
 
 
 def parse_sections(html: str) -> list[dict]:
+    html = _unwrap_cdata(html)
     soup = BeautifulSoup(html, "html.parser")
     seen_class_nbrs = set()
     records = []

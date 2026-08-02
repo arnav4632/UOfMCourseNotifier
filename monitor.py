@@ -54,9 +54,15 @@ HEADERS = {
 
 
 def _extract_hidden_field(html: str, name: str) -> str | None:
-    soup = BeautifulSoup(html, "html.parser")
-    el = soup.find("input", attrs={"name": name})
-    return el.get("value") if el else None
+    # Direct regex on raw text rather than routing through BeautifulSoup:
+    # PeopleSoft's ICAJAX responses wrap hidden fields inside a CDATA block
+    # (<FIELD id='win0divPSHIDDENFIELDS'><![CDATA[<input .../>]]></FIELD>),
+    # and html.parser's undefined/inconsistent behavior on CDATA sections is
+    # exactly what caused the intermittent 0-sections bug in parser.py. These
+    # are always simple flat `name='X' value='Y'` pairs, so a direct regex
+    # avoids that ambiguity entirely rather than depending on parser recovery.
+    m = re.search(rf"name=['\"]{re.escape(name)}['\"][^>]*value=['\"]([^'\"]*)['\"]", html)
+    return m.group(1) if m else None
 
 
 def _find_iframe_src(html: str, iframe_name: str) -> str | None:
@@ -180,7 +186,7 @@ def scrape() -> str:
     if DEBUG:
         Path("debug_3_search.html").write_text(resp3.text, encoding="utf-8")
 
-    if "SSR_CLSRCH_MTG1" in resp3.text:
+    if "win0divMTG_CLASS_NBR$" in resp3.text:
         return resp3.text  # no confirmation dialog this time - done
 
     is_warning = "#ICSave" in resp3.text and "PSPUSHBUTTONTBOK" in resp3.text
@@ -201,7 +207,7 @@ def scrape() -> str:
     if DEBUG:
         Path("debug_4_after_ok.html").write_text(resp4.text, encoding="utf-8")
 
-    if "SSR_CLSRCH_MTG1" not in resp4.text:
+    if "win0divMTG_CLASS_NBR$" not in resp4.text:
         raise RuntimeError(
             "Still no results table after clicking OK. Run with DEBUG=1 and "
             "inspect debug_4_after_ok.html."
@@ -303,9 +309,33 @@ def main():
     html = scrape()
 
     all_sections = parse_sections(html)
-    print(f"Parsed {len(all_sections)} unique classes. Tracking all of them.")
+    print(f"Parsed {len(all_sections)} unique classes.")
 
     old_state = load_state()
+
+    # Sanity guard: 0 sections when we previously had some is almost
+    # certainly a scrape glitch (rate limiting, a transient error page that
+    # still happened to contain "SSR_CLSRCH_MTG1" in its column headers,
+    # etc.) rather than every section of the course actually vanishing.
+    # Treating it as real would both spam false "REMOVED" alerts for
+    # everything and wipe state.json, making every future run think
+    # everything is "NEW" again. So: don't trust it, don't save it.
+    if not all_sections and old_state:
+        Path("debug_zero_sections.html").write_text(html, encoding="utf-8")
+        warning = (
+            f"⚠️ {SUBJECT} {COURSE_NUMBER} monitor got **0 sections** this run "
+            f"but had {len(old_state)} previously known - this looks like a "
+            f"scrape glitch, not real data. Skipping this update (state.json "
+            f"left untouched); will try again next scheduled run. "
+            f"(raw response saved to debug_zero_sections.html)"
+        )
+        print(warning)
+        if DISCORD_WEBHOOK_URL:
+            requests.post(DISCORD_WEBHOOK_URL, json={"content": warning})
+        else:
+            print("(DISCORD_WEBHOOK_URL not set, printed above instead)")
+        return
+
     changes = diff_sections(old_state, all_sections)
 
     if changes:
