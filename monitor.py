@@ -229,9 +229,20 @@ def save_state(sections: list[dict]) -> None:
 
 FIELDS_TO_COMPARE = ["section_number", "component", "days_times", "room", "instructor", "meeting_dates", "status"]
 
+# Only these trigger @everyone; other changes still get posted, just quietly.
+PRIORITY_COMPONENT = "LAB"
+PRIORITY_NUMBER_PREFIX = "4"
 
-def diff_sections(old: dict, new_sections: list[dict]) -> list[str]:
-    """Returns a list of human-readable change lines."""
+
+def _is_priority(section: dict) -> bool:
+    return (
+        section["component"].upper() == PRIORITY_COMPONENT.upper()
+        and section["section_number"].startswith(PRIORITY_NUMBER_PREFIX)
+    )
+
+
+def diff_sections(old: dict, new_sections: list[dict]) -> list[tuple[str, bool]]:
+    """Returns a list of (human-readable line, is_priority) tuples."""
     lines = []
     new_by_nbr = {s["class_nbr"]: s for s in new_sections}
 
@@ -241,18 +252,20 @@ def diff_sections(old: dict, new_sections: list[dict]) -> list[str]:
 
     for nbr in added:
         s = new_by_nbr[nbr]
-        lines.append(
+        lines.append((
             f"🟢 **NEW** section {s['section_number']}-{s['component']} "
             f"(class {nbr}) — status **{s['status']}** — {s['days_times']} — "
-            f"{s['room']} — {s['instructor']}"
-        )
+            f"{s['room']} — {s['instructor']}",
+            _is_priority(s),
+        ))
 
     for nbr in removed:
         s = old[nbr]
-        lines.append(
+        lines.append((
             f"🔴 **REMOVED** section {s['section_number']}-{s['component']} "
-            f"(class {nbr}) — last known status was {s['status']}"
-        )
+            f"(class {nbr}) — last known status was {s['status']}",
+            _is_priority(s),
+        ))
 
     for nbr in common:
         old_s, new_s = old[nbr], new_by_nbr[nbr]
@@ -261,18 +274,21 @@ def diff_sections(old: dict, new_sections: list[dict]) -> list[str]:
             parts = ", ".join(
                 f"{f} `{old_s.get(f)}` → `{new_s.get(f)}`" for f in changed_fields
             )
-            lines.append(
+            lines.append((
                 f"🔄 Section {new_s['section_number']}-{new_s['component']} "
-                f"(class {nbr}): {parts}"
-            )
+                f"(class {nbr}): {parts}",
+                _is_priority(new_s),
+            ))
 
     return lines
 
 
-def send_discord(lines: list[str]) -> None:
+def send_discord(lines: list[tuple[str, bool]]) -> None:
     if lines:
-        header = f"**@everyone {SUBJECT} {COURSE_NUMBER} — section changes detected:**\n"
-        message = header + "\n".join(lines)
+        has_priority = any(is_priority for _, is_priority in lines)
+        ping = "@everyone " if has_priority else ""
+        header = f"**{ping}{SUBJECT} {COURSE_NUMBER} — section changes detected:**\n"
+        message = header + "\n".join(text for text, _ in lines)
     else:
         message = f"✅ {SUBJECT} {COURSE_NUMBER} monitor ran, no changes since last poll."
 
@@ -340,8 +356,9 @@ def main():
 
     if changes:
         print(f"{len(changes)} change(s) detected:")
-        for l in changes:
-            print("  " + l)
+        for text, is_priority in changes:
+            marker = " [PRIORITY]" if is_priority else ""
+            print(f"  {text}{marker}")
     else:
         print("No changes since last poll.")
 
