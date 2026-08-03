@@ -87,7 +87,7 @@
     "room": "Peik Hall 165",
     "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24523": {
     "class_nbr": "24523",
@@ -317,7 +317,7 @@
     "room": "Tate Hall B45",
     "instructor": "Ziane Izri",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "22616": {
     "class_nbr": "22616",
@@ -867,7 +867,7 @@
     "room": "Tate Hall B23",
     "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24524": {
     "class_nbr": "24524",
@@ -1097,7 +1097,7 @@
     "room": "Tate Hall B61",
     "instructor": "Ziane Izri",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "22617": {
     "class_nbr": "22617",
