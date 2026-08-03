@@ -619,16 +619,6 @@
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
-  "23414": {
-    "class_nbr": "23414",
-    "section_number": "528",
-    "component": "DIS",
-    "days_times": "Th 2:30PM - 3:20PM",
-    "room": "No Print",
-    "instructor": "Alexander McLeod",
-    "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
-  },
   "23658": {
     "class_nbr": "23658",
     "section_number": "530",
@@ -668,16 +658,6 @@
     "instructor": "Alexander McLeod",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
-  },
-  "24588": {
-    "class_nbr": "24588",
-    "section_number": "538",
-    "component": "DIS",
-    "days_times": "Th 3:35PM - 4:25PM",
-    "room": "No Print",
-    "instructor": "Alexander McLeod",
-    "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
   },
   "23660": {
     "class_nbr": "23660",
@@ -767,7 +747,7 @@
     "room": "Tate Hall B55",
     "instructor": "Xianghan Xu",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "24593": {
     "class_nbr": "24593",
@@ -1547,7 +1527,7 @@
     "room": "Tate Hall B61",
     "instructor": "Xianghan Xu",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "24594": {
     "class_nbr": "24594",
