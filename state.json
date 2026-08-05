@@ -487,7 +487,7 @@
     "room": "Peik Hall 165",
     "instructor": "Lindsay Glesener",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "23935": {
     "class_nbr": "23935",
@@ -507,7 +507,7 @@
     "room": "Vincent Hall 113",
     "instructor": "Lindsay Glesener",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "24575": {
     "class_nbr": "24575",
@@ -1267,7 +1267,7 @@
     "room": "Tate Hall B63",
     "instructor": "Lindsay Glesener",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "23936": {
     "class_nbr": "23936",
@@ -1287,7 +1287,7 @@
     "room": "Tate Hall B23",
     "instructor": "Lindsay Glesener",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "24576": {
     "class_nbr": "24576",
