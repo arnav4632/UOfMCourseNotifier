@@ -27,7 +27,7 @@
     "room": "Tate Hall B45",
     "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24511": {
     "class_nbr": "24511",
@@ -107,7 +107,7 @@
     "room": "Blegen Hall 130",
     "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "22327": {
     "class_nbr": "22327",
@@ -157,7 +157,7 @@
     "room": "Vincent Hall 213",
     "instructor": "Maxim Pospelov",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "23686": {
     "class_nbr": "23686",
@@ -477,7 +477,7 @@
     "room": "Hubert H. Humphrey School 35",
     "instructor": "Lindsay Glesener",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "23827": {
     "class_nbr": "23827",
@@ -717,7 +717,7 @@
     "room": "Ford Hall 155",
     "instructor": "Xianghan Xu",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "23453": {
     "class_nbr": "23453",
@@ -807,7 +807,7 @@
     "room": "Tate Hall B23",
     "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24512": {
     "class_nbr": "24512",
@@ -887,7 +887,7 @@
     "room": "Tate Hall B26",
     "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "22328": {
     "class_nbr": "22328",
@@ -937,7 +937,7 @@
     "room": "Tate Hall B26",
     "instructor": "Maxim Pospelov",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "23771": {
     "class_nbr": "23771",
@@ -1257,7 +1257,7 @@
     "room": "Tate Hall B63",
     "instructor": "To be Announced",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "23828": {
     "class_nbr": "23828",
@@ -1497,7 +1497,7 @@
     "room": "Tate Hall B61",
     "instructor": "Xianghan Xu",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "23454": {
     "class_nbr": "23454",
