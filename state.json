@@ -107,7 +107,7 @@
     "room": "Blegen Hall 130",
     "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "22327": {
     "class_nbr": "22327",
@@ -137,7 +137,7 @@
     "room": "Anderson Hall 330",
     "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "23451": {
     "class_nbr": "23451",
@@ -284,7 +284,7 @@
     "section_number": "236",
     "component": "DIS",
     "days_times": "Th 10:10AM - 11:00AM",
-    "room": "Anderson Hall 250",
+    "room": "Blegen Hall 317",
     "instructor": "Maxim Pospelov",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
@@ -607,7 +607,7 @@
     "room": "Civil Engineering Bldg 213",
     "instructor": "Alexander McLeod",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24141": {
     "class_nbr": "24141",
@@ -887,7 +887,7 @@
     "room": "Tate Hall B26",
     "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "22328": {
     "class_nbr": "22328",
@@ -917,7 +917,7 @@
     "room": "Tate Hall B23",
     "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "22615": {
     "class_nbr": "22615",
@@ -1387,7 +1387,7 @@
     "room": "Tate Hall B26",
     "instructor": "Alexander McLeod",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24142": {
     "class_nbr": "24142",
