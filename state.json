@@ -607,7 +607,7 @@
     "room": "Civil Engineering Bldg 213",
     "instructor": "Alexander McLeod",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "24141": {
     "class_nbr": "24141",
@@ -1387,7 +1387,7 @@
     "room": "Tate Hall B26",
     "instructor": "Alexander McLeod",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "24142": {
     "class_nbr": "24142",
