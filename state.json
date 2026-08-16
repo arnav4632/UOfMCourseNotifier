@@ -47,7 +47,7 @@
     "room": "Smith Hall 111",
     "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24515": {
     "class_nbr": "24515",
@@ -57,7 +57,7 @@
     "room": "Vincent Hall 207",
     "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "24517": {
     "class_nbr": "24517",
@@ -77,7 +77,7 @@
     "room": "Tate Hall B45",
     "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24521": {
     "class_nbr": "24521",
@@ -157,7 +157,7 @@
     "room": "Vincent Hall 213",
     "instructor": "Maxim Pospelov",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "23686": {
     "class_nbr": "23686",
@@ -167,7 +167,7 @@
     "room": "Bruininks Hall 119",
     "instructor": "Maxim Pospelov",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24401": {
     "class_nbr": "24401",
@@ -267,7 +267,7 @@
     "room": "TBA",
     "instructor": "Maxim Pospelov",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "23865": {
     "class_nbr": "23865",
@@ -277,14 +277,14 @@
     "room": "Blegen Hall 120",
     "instructor": "Maxim Pospelov",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "24551": {
     "class_nbr": "24551",
     "section_number": "236",
     "component": "DIS",
     "days_times": "Th 10:10AM - 11:00AM",
-    "room": "Anderson Hall 250",
+    "room": "Blegen Hall 125",
     "instructor": "Maxim Pospelov",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
@@ -307,7 +307,7 @@
     "room": "Vincent Hall 364",
     "instructor": "Ziane Izri",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "23768": {
     "class_nbr": "23768",
@@ -317,7 +317,7 @@
     "room": "Tate Hall B45",
     "instructor": "Ziane Izri",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "22616": {
     "class_nbr": "22616",
@@ -327,7 +327,7 @@
     "room": "Amundson Hall 104",
     "instructor": "Ziane Izri",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24555": {
     "class_nbr": "24555",
@@ -437,7 +437,7 @@
     "room": "Kolthoff Hall 134",
     "instructor": "Ziane Izri",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "23867": {
     "class_nbr": "23867",
@@ -447,7 +447,7 @@
     "room": "Folwell Hall 13",
     "instructor": "Ziane Izri",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24569": {
     "class_nbr": "24569",
@@ -467,7 +467,7 @@
     "room": "Hubert H. Humphrey School 15",
     "instructor": "Lindsay Glesener",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24573": {
     "class_nbr": "24573",
@@ -717,7 +717,7 @@
     "room": "Ford Hall 155",
     "instructor": "Xianghan Xu",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "23453": {
     "class_nbr": "23453",
@@ -727,7 +727,7 @@
     "room": "Vincent Hall 213",
     "instructor": "Xianghan Xu",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "22851": {
     "class_nbr": "22851",
@@ -827,7 +827,7 @@
     "room": "Tate Hall B26",
     "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24516": {
     "class_nbr": "24516",
@@ -837,7 +837,7 @@
     "room": "Tate Hall B61",
     "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "24518": {
     "class_nbr": "24518",
@@ -857,7 +857,7 @@
     "room": "Tate Hall B23",
     "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24522": {
     "class_nbr": "24522",
@@ -937,7 +937,7 @@
     "room": "Tate Hall B26",
     "instructor": "Maxim Pospelov",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "23771": {
     "class_nbr": "23771",
@@ -947,7 +947,7 @@
     "room": "Tate Hall B26",
     "instructor": "Maxim Pospelov",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24402": {
     "class_nbr": "24402",
@@ -1047,7 +1047,7 @@
     "room": "Tate Hall B61",
     "instructor": "Maxim Pospelov",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "23866": {
     "class_nbr": "23866",
@@ -1057,7 +1057,7 @@
     "room": "Tate Hall B26",
     "instructor": "Maxim Pospelov",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "24552": {
     "class_nbr": "24552",
@@ -1087,7 +1087,7 @@
     "room": "Tate Hall B61",
     "instructor": "Ziane Izri",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "23769": {
     "class_nbr": "23769",
@@ -1097,7 +1097,7 @@
     "room": "Tate Hall B61",
     "instructor": "Ziane Izri",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "22617": {
     "class_nbr": "22617",
@@ -1107,7 +1107,7 @@
     "room": "Tate Hall B61",
     "instructor": "Ziane Izri",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24556": {
     "class_nbr": "24556",
@@ -1217,7 +1217,7 @@
     "room": "Tate Hall B61",
     "instructor": "Ziane Izri",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "23868": {
     "class_nbr": "23868",
@@ -1227,7 +1227,7 @@
     "room": "Tate Hall B61",
     "instructor": "Ziane Izri",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24570": {
     "class_nbr": "24570",
@@ -1247,7 +1247,7 @@
     "room": "Tate Hall B23",
     "instructor": "Lindsay Glesener",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24574": {
     "class_nbr": "24574",
@@ -1497,7 +1497,7 @@
     "room": "Tate Hall B61",
     "instructor": "Xianghan Xu",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "23454": {
     "class_nbr": "23454",
@@ -1507,7 +1507,7 @@
     "room": "Tate Hall B63",
     "instructor": "Xianghan Xu",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "22852": {
     "class_nbr": "22852",
@@ -1597,7 +1597,7 @@
     "room": "Tate Hall B20 / Room TBA",
     "instructor": "Lindsay Glesener / To be Announced",
     "meeting_dates": "09/08/2026 - 12/16/2026 / 09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "23410": {
     "class_nbr": "23410",
