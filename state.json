@@ -437,7 +437,7 @@
     "room": "Kolthoff Hall 134",
     "instructor": "Ziane Izri",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "23867": {
     "class_nbr": "23867",
@@ -717,7 +717,7 @@
     "room": "Ford Hall 155",
     "instructor": "Xianghan Xu",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "23453": {
     "class_nbr": "23453",
@@ -1217,7 +1217,7 @@
     "room": "Tate Hall B61",
     "instructor": "Ziane Izri",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "23868": {
     "class_nbr": "23868",
@@ -1497,7 +1497,7 @@
     "room": "Tate Hall B61",
     "instructor": "Xianghan Xu",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "23454": {
     "class_nbr": "23454",
