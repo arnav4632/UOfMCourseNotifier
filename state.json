@@ -657,7 +657,7 @@
     "room": "Vincent Hall 301",
     "instructor": "Alexander McLeod",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "23660": {
     "class_nbr": "23660",
@@ -1437,7 +1437,7 @@
     "room": "Tate Hall B63",
     "instructor": "Alexander McLeod",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "23661": {
     "class_nbr": "23661",
