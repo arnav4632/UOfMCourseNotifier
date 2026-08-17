@@ -47,7 +47,7 @@
     "room": "Smith Hall 111",
     "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "24515": {
     "class_nbr": "24515",
@@ -827,7 +827,7 @@
     "room": "Tate Hall B26",
     "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "24516": {
     "class_nbr": "24516",
