@@ -417,7 +417,7 @@
     "room": "Akerman Hall 227",
     "instructor": "Ziane Izri",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "23825": {
     "class_nbr": "23825",
@@ -467,7 +467,7 @@
     "room": "Hubert H. Humphrey School 15",
     "instructor": "Lindsay Glesener",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "24573": {
     "class_nbr": "24573",
@@ -1197,7 +1197,7 @@
     "room": "Tate Hall B63",
     "instructor": "Ziane Izri",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "23826": {
     "class_nbr": "23826",
@@ -1247,7 +1247,7 @@
     "room": "Tate Hall B23",
     "instructor": "Lindsay Glesener",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "24574": {
     "class_nbr": "24574",
@@ -1597,7 +1597,7 @@
     "room": "Tate Hall B20 / Room TBA",
     "instructor": "Lindsay Glesener / To be Announced",
     "meeting_dates": "09/08/2026 - 12/16/2026 / 09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "23410": {
     "class_nbr": "23410",
