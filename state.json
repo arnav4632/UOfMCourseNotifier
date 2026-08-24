@@ -167,7 +167,7 @@
     "room": "Bruininks Hall 119",
     "instructor": "Maxim Pospelov",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "24401": {
     "class_nbr": "24401",
@@ -785,7 +785,7 @@
     "component": "LAB",
     "days_times": "Mo 1:25PM - 3:20PM",
     "room": "Tate Hall B23",
-    "instructor": "Jeremiah Mans, / Isabella Bruzzese",
+    "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -795,7 +795,7 @@
     "component": "LAB",
     "days_times": "Mo 3:35PM - 5:30PM",
     "room": "Tate Hall B23",
-    "instructor": "Jeremiah Mans, / Owen Odney",
+    "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -815,7 +815,7 @@
     "component": "LAB",
     "days_times": "Tu 12:20PM - 2:15PM",
     "room": "Tate Hall B23",
-    "instructor": "Jeremiah Mans, / Kelsey Henry",
+    "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -825,7 +825,7 @@
     "component": "LAB",
     "days_times": "Tu 12:20PM - 2:15PM",
     "room": "Tate Hall B26",
-    "instructor": "Jeremiah Mans, / Peter Vasterling",
+    "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Open"
   },
@@ -835,7 +835,7 @@
     "component": "LAB",
     "days_times": "Tu 2:30PM - 4:25PM",
     "room": "Tate Hall B61",
-    "instructor": "Jeremiah Mans, / Kelsey Henry",
+    "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -845,7 +845,7 @@
     "component": "LAB",
     "days_times": "Tu 2:30PM - 4:25PM",
     "room": "Tate Hall B63",
-    "instructor": "Jeremiah Mans, / Peter Vasterling",
+    "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -855,7 +855,7 @@
     "component": "LAB",
     "days_times": "We 1:25PM - 3:20PM",
     "room": "Tate Hall B23",
-    "instructor": "Jeremiah Mans, / Isabella Bruzzese",
+    "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -865,7 +865,7 @@
     "component": "LAB",
     "days_times": "We 3:35PM - 5:30PM",
     "room": "Tate Hall B23",
-    "instructor": "Jeremiah Mans, / Owen Odney",
+    "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -885,7 +885,7 @@
     "component": "LAB",
     "days_times": "Th 1:25PM - 3:20PM",
     "room": "Tate Hall B26",
-    "instructor": "Jeremiah Mans, / Isabella Bruzzese",
+    "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -895,7 +895,7 @@
     "component": "LAB",
     "days_times": "Th 3:35PM - 5:30PM",
     "room": "Tate Hall B26",
-    "instructor": "Jeremiah Mans, / Peter Vasterling",
+    "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -905,7 +905,7 @@
     "component": "LAB",
     "days_times": "Th 5:45PM - 7:40PM",
     "room": "Tate Hall B26",
-    "instructor": "Jeremiah Mans, / Owen Odney",
+    "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -915,7 +915,7 @@
     "component": "LAB",
     "days_times": "Fr 1:25PM - 3:20PM",
     "room": "Tate Hall B23",
-    "instructor": "Jeremiah Mans, / Kelsey Henry",
+    "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -947,7 +947,7 @@
     "room": "Tate Hall B26",
     "instructor": "Maxim Pospelov",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "24402": {
     "class_nbr": "24402",
@@ -1235,7 +1235,7 @@
     "component": "LAB",
     "days_times": "Mo 8:00AM - 9:55AM",
     "room": "Tate Hall B23",
-    "instructor": "Lindsay Glesener",
+    "instructor": "Lindsay Glesener, / Xiaolong Shen",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -1245,7 +1245,7 @@
     "component": "LAB",
     "days_times": "Mo 10:10AM - 12:05PM",
     "room": "Tate Hall B23",
-    "instructor": "Lindsay Glesener",
+    "instructor": "Lindsay Glesener, / Hatice Kubra Bag",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -1255,7 +1255,7 @@
     "component": "LAB",
     "days_times": "Mo 1:25PM - 3:20PM",
     "room": "Tate Hall B63",
-    "instructor": "To be Announced",
+    "instructor": "Lindsay Glesener, / Qianyao Zhu",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -1265,7 +1265,7 @@
     "component": "LAB",
     "days_times": "Tu 10:10AM - 12:05PM",
     "room": "Tate Hall B63",
-    "instructor": "Lindsay Glesener",
+    "instructor": "Lindsay Glesener, / Xiaolong Shen",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -1275,7 +1275,7 @@
     "component": "LAB",
     "days_times": "We 8:00AM - 9:55AM",
     "room": "Tate Hall B23",
-    "instructor": "Lindsay Glesener",
+    "instructor": "Lindsay Glesener, / Qianyao Zhu",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -1285,7 +1285,7 @@
     "component": "LAB",
     "days_times": "We 10:10AM - 12:05PM",
     "room": "Tate Hall B23",
-    "instructor": "Lindsay Glesener",
+    "instructor": "Lindsay Glesener, / Hatice Kubra Bag",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -1295,7 +1295,7 @@
     "component": "LAB",
     "days_times": "Th 8:00AM - 9:55AM",
     "room": "Tate Hall B63",
-    "instructor": "Lindsay Glesener",
+    "instructor": "Lindsay Glesener, / Xiaolong Shen",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -1305,7 +1305,7 @@
     "component": "LAB",
     "days_times": "Th 8:00AM - 9:55AM",
     "room": "Tate Hall B61",
-    "instructor": "Lindsay Glesener",
+    "instructor": "Lindsay Glesener, / Qianyao Zhu",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -1315,7 +1315,7 @@
     "component": "LAB",
     "days_times": "Fr 10:10AM - 12:05PM",
     "room": "Tate Hall B23",
-    "instructor": "Lindsay Glesener",
+    "instructor": "Lindsay Glesener, / Hatice Kubra Bag",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -1325,7 +1325,7 @@
     "component": "LAB",
     "days_times": "Mo 8:00AM - 9:55AM",
     "room": "Tate Hall B26",
-    "instructor": "Alexander McLeod",
+    "instructor": "Alexander McLeod, / Elliott Robb Tanner",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -1335,7 +1335,7 @@
     "component": "LAB",
     "days_times": "Mo 10:10AM - 12:05PM",
     "room": "Tate Hall B26",
-    "instructor": "Alexander McLeod",
+    "instructor": "Alexander McLeod, / Allison Schroeder",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -1345,7 +1345,7 @@
     "component": "LAB",
     "days_times": "Tu 8:00AM - 9:55AM",
     "room": "Tate Hall B23",
-    "instructor": "Alexander McLeod",
+    "instructor": "Alexander McLeod, / Jarrett Fein",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -1355,7 +1355,7 @@
     "component": "LAB",
     "days_times": "Tu 8:00AM - 9:55AM",
     "room": "Tate Hall B61",
-    "instructor": "Alexander McLeod",
+    "instructor": "Alexander McLeod, / Kaylyn Cove",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -1365,7 +1365,7 @@
     "component": "LAB",
     "days_times": "Tu 12:20PM - 2:15PM",
     "room": "Tate Hall B63",
-    "instructor": "Alexander McLeod",
+    "instructor": "Alexander McLeod, / Jarrett Fein",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -1375,7 +1375,7 @@
     "component": "LAB",
     "days_times": "We 8:00AM - 9:55AM",
     "room": "Tate Hall B26",
-    "instructor": "Alexander McLeod",
+    "instructor": "Alexander McLeod, / Allison Schroeder",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -1385,7 +1385,7 @@
     "component": "LAB",
     "days_times": "We 10:10AM - 12:05PM",
     "room": "Tate Hall B26",
-    "instructor": "Alexander McLeod",
+    "instructor": "Alexander McLeod, / Elliott Robb Tanner",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Open"
   },
@@ -1395,7 +1395,7 @@
     "component": "LAB",
     "days_times": "Th 8:00AM - 9:55AM",
     "room": "Tate Hall B23",
-    "instructor": "Alexander McLeod",
+    "instructor": "Alexander McLeod, / Kaylyn Cove",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -1405,7 +1405,7 @@
     "component": "LAB",
     "days_times": "Th 10:10AM - 12:05PM",
     "room": "Tate Hall B61",
-    "instructor": "Alexander McLeod",
+    "instructor": "Alexander McLeod, / Jarrett Fein",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -1415,7 +1415,7 @@
     "component": "LAB",
     "days_times": "Fr 8:00AM - 9:55AM",
     "room": "Tate Hall B61",
-    "instructor": "Alexander McLeod",
+    "instructor": "Alexander McLeod, / Kaylyn Cove",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -1425,7 +1425,7 @@
     "component": "LAB",
     "days_times": "Fr 10:10AM - 12:05PM",
     "room": "Tate Hall B61",
-    "instructor": "Alexander McLeod",
+    "instructor": "Alexander McLeod, / Elliott Robb Tanner",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -1435,7 +1435,7 @@
     "component": "LAB",
     "days_times": "Fr 3:35PM - 5:30PM",
     "room": "Tate Hall B63",
-    "instructor": "Alexander McLeod",
+    "instructor": "Alexander McLeod, / Allison Schroeder",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -1445,7 +1445,7 @@
     "component": "LAB",
     "days_times": "Mo 8:00AM - 9:55AM",
     "room": "Tate Hall B61",
-    "instructor": "Xianghan Xu",
+    "instructor": "Xianghan Xu, / Trevor Blodgett",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Open"
   },
@@ -1455,7 +1455,7 @@
     "component": "LAB",
     "days_times": "Mo 10:10AM - 12:05PM",
     "room": "Tate Hall B61",
-    "instructor": "Xianghan Xu",
+    "instructor": "Xianghan Xu, / Zhe Yu",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Open"
   },
@@ -1495,7 +1495,7 @@
     "component": "LAB",
     "days_times": "We 10:10AM - 12:05PM",
     "room": "Tate Hall B61",
-    "instructor": "Xianghan Xu",
+    "instructor": "Xianghan Xu, / Trevor Blodgett",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -1505,7 +1505,7 @@
     "component": "LAB",
     "days_times": "We 3:35PM - 5:30PM",
     "room": "Tate Hall B63",
-    "instructor": "Xianghan Xu",
+    "instructor": "Xianghan Xu, / Zhe Yu",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Open"
   },
@@ -1535,7 +1535,7 @@
     "component": "LAB",
     "days_times": "Fr 8:00AM - 9:55AM",
     "room": "Tate Hall B63",
-    "instructor": "Xianghan Xu",
+    "instructor": "Xianghan Xu, / Trevor Blodgett",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Open"
   },
@@ -1545,7 +1545,7 @@
     "component": "LAB",
     "days_times": "Fr 10:10AM - 12:05PM",
     "room": "Tate Hall B63",
-    "instructor": "Xianghan Xu",
+    "instructor": "Xianghan Xu, / Zhe Yu",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Open"
   },
@@ -1555,7 +1555,7 @@
     "component": "LAB",
     "days_times": "Fr 1:25PM - 3:20PM",
     "room": "Tate Hall B63",
-    "instructor": "Xianghan Xu",
+    "instructor": "Xianghan Xu, / Besi Lajci",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Open"
   },
