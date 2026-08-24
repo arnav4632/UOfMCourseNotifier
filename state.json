@@ -417,7 +417,7 @@
     "room": "Akerman Hall 227",
     "instructor": "Ziane Izri",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "23825": {
     "class_nbr": "23825",
@@ -447,7 +447,7 @@
     "room": "Folwell Hall 13",
     "instructor": "Ziane Izri",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "24569": {
     "class_nbr": "24569",
@@ -567,7 +567,7 @@
     "room": "Bruininks Hall 420A",
     "instructor": "Alexander McLeod",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24581": {
     "class_nbr": "24581",
@@ -607,7 +607,7 @@
     "room": "Civil Engineering Bldg 213",
     "instructor": "Alexander McLeod",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "24141": {
     "class_nbr": "24141",
@@ -727,7 +727,7 @@
     "room": "Vincent Hall 213",
     "instructor": "Xianghan Xu",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "22851": {
     "class_nbr": "22851",
@@ -1197,7 +1197,7 @@
     "room": "Tate Hall B63",
     "instructor": "Ziane Izri",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "23826": {
     "class_nbr": "23826",
@@ -1227,7 +1227,7 @@
     "room": "Tate Hall B61",
     "instructor": "Ziane Izri",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "24570": {
     "class_nbr": "24570",
@@ -1347,7 +1347,7 @@
     "room": "Tate Hall B23",
     "instructor": "Alexander McLeod, / Jarrett Fein",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24582": {
     "class_nbr": "24582",
@@ -1387,7 +1387,7 @@
     "room": "Tate Hall B26",
     "instructor": "Alexander McLeod, / Elliott Robb Tanner",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "24142": {
     "class_nbr": "24142",
@@ -1507,7 +1507,7 @@
     "room": "Tate Hall B63",
     "instructor": "Xianghan Xu, / Zhe Yu",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "22852": {
     "class_nbr": "22852",
