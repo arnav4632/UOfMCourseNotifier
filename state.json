@@ -727,7 +727,7 @@
     "room": "Vincent Hall 213",
     "instructor": "Xianghan Xu",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "22851": {
     "class_nbr": "22851",
@@ -785,7 +785,7 @@
     "component": "LAB",
     "days_times": "Mo 1:25PM - 3:20PM",
     "room": "Tate Hall B23",
-    "instructor": "Jeremiah Mans",
+    "instructor": "Jeremiah Mans, / Isabella Bruzzese",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -795,7 +795,7 @@
     "component": "LAB",
     "days_times": "Mo 3:35PM - 5:30PM",
     "room": "Tate Hall B23",
-    "instructor": "Jeremiah Mans",
+    "instructor": "Jeremiah Mans, / Owen Odney",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -805,7 +805,7 @@
     "component": "LAB",
     "days_times": "Mo 5:45PM - 7:40PM",
     "room": "Tate Hall B23",
-    "instructor": "Jeremiah Mans",
+    "instructor": "Jeremiah Mans, / Amandeep Basra",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -815,7 +815,7 @@
     "component": "LAB",
     "days_times": "Tu 12:20PM - 2:15PM",
     "room": "Tate Hall B23",
-    "instructor": "Jeremiah Mans",
+    "instructor": "Jeremiah Mans, / Kelsey Henry",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -825,7 +825,7 @@
     "component": "LAB",
     "days_times": "Tu 12:20PM - 2:15PM",
     "room": "Tate Hall B26",
-    "instructor": "Jeremiah Mans",
+    "instructor": "Jeremiah Mans, / Peter Vasterling",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Open"
   },
@@ -835,7 +835,7 @@
     "component": "LAB",
     "days_times": "Tu 2:30PM - 4:25PM",
     "room": "Tate Hall B61",
-    "instructor": "Jeremiah Mans",
+    "instructor": "Jeremiah Mans, / Kelsey Henry",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -845,7 +845,7 @@
     "component": "LAB",
     "days_times": "Tu 2:30PM - 4:25PM",
     "room": "Tate Hall B63",
-    "instructor": "Jeremiah Mans",
+    "instructor": "Jeremiah Mans, / Peter Vasterling",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -855,7 +855,7 @@
     "component": "LAB",
     "days_times": "We 1:25PM - 3:20PM",
     "room": "Tate Hall B23",
-    "instructor": "Jeremiah Mans",
+    "instructor": "Jeremiah Mans, / Isabella Bruzzese",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -865,7 +865,7 @@
     "component": "LAB",
     "days_times": "We 3:35PM - 5:30PM",
     "room": "Tate Hall B23",
-    "instructor": "Jeremiah Mans",
+    "instructor": "Jeremiah Mans, / Owen Odney",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -875,7 +875,7 @@
     "component": "LAB",
     "days_times": "We 5:45PM - 7:40PM",
     "room": "Tate Hall B23",
-    "instructor": "Jeremiah Mans",
+    "instructor": "Jeremiah Mans, / Amandeep Basra",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Open"
   },
@@ -885,7 +885,7 @@
     "component": "LAB",
     "days_times": "Th 1:25PM - 3:20PM",
     "room": "Tate Hall B26",
-    "instructor": "Jeremiah Mans",
+    "instructor": "Jeremiah Mans, / Isabella Bruzzese",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -895,7 +895,7 @@
     "component": "LAB",
     "days_times": "Th 3:35PM - 5:30PM",
     "room": "Tate Hall B26",
-    "instructor": "Jeremiah Mans",
+    "instructor": "Jeremiah Mans, / Peter Vasterling",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -905,7 +905,7 @@
     "component": "LAB",
     "days_times": "Th 5:45PM - 7:40PM",
     "room": "Tate Hall B26",
-    "instructor": "Jeremiah Mans",
+    "instructor": "Jeremiah Mans, / Owen Odney",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -915,7 +915,7 @@
     "component": "LAB",
     "days_times": "Fr 1:25PM - 3:20PM",
     "room": "Tate Hall B23",
-    "instructor": "Jeremiah Mans",
+    "instructor": "Jeremiah Mans, / Kelsey Henry",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -925,7 +925,7 @@
     "component": "LAB",
     "days_times": "Fr 3:35PM - 5:30PM",
     "room": "Tate Hall B23",
-    "instructor": "Jeremiah Mans",
+    "instructor": "Jeremiah Mans, / Amandeep Basra",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -975,7 +975,7 @@
     "component": "LAB",
     "days_times": "Tu 2:30PM - 4:25PM",
     "room": "Tate Hall B26",
-    "instructor": "Maxim Pospelov",
+    "instructor": "Maxim Pospelov, / Chi Cap",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -1015,7 +1015,7 @@
     "component": "LAB",
     "days_times": "We 5:45PM - 7:40PM",
     "room": "Tate Hall B26",
-    "instructor": "Maxim Pospelov",
+    "instructor": "Maxim Pospelov, / Chi Cap",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Open"
   },
@@ -1065,7 +1065,7 @@
     "component": "LAB",
     "days_times": "Fr 3:35PM - 5:30PM",
     "room": "Tate Hall B26",
-    "instructor": "Maxim Pospelov",
+    "instructor": "Maxim Pospelov, / Chi Cap",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -1095,7 +1095,7 @@
     "component": "LAB",
     "days_times": "Mo 3:35PM - 5:30PM",
     "room": "Tate Hall B61",
-    "instructor": "Ziane Izri",
+    "instructor": "Ziane Izri, / Abhinaya Sinha",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -1105,7 +1105,7 @@
     "component": "LAB",
     "days_times": "Mo 5:45PM - 7:40PM",
     "room": "Tate Hall B61",
-    "instructor": "Ziane Izri",
+    "instructor": "Ziane Izri, / Hokyeong Nam",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -1165,7 +1165,7 @@
     "component": "LAB",
     "days_times": "We 5:45PM - 7:40PM",
     "room": "Tate Hall B63",
-    "instructor": "Ziane Izri",
+    "instructor": "Ziane Izri, / Abhinaya Sinha",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -1215,7 +1215,7 @@
     "component": "LAB",
     "days_times": "Fr 3:35PM - 5:30PM",
     "room": "Tate Hall B61",
-    "instructor": "Ziane Izri",
+    "instructor": "Ziane Izri, / Abhinaya Sinha",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
@@ -1507,7 +1507,7 @@
     "room": "Tate Hall B63",
     "instructor": "Xianghan Xu",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "22852": {
     "class_nbr": "22852",
