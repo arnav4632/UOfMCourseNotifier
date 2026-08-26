@@ -317,7 +317,7 @@
     "room": "Tate Hall B45",
     "instructor": "Ziane Izri",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "22616": {
     "class_nbr": "22616",
@@ -367,7 +367,7 @@
     "room": "Lind Hall L122",
     "instructor": "Ziane Izri",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24563": {
     "class_nbr": "24563",
@@ -457,7 +457,7 @@
     "room": "Blegen Hall 110",
     "instructor": "Lindsay Glesener",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "24571": {
     "class_nbr": "24571",
@@ -677,7 +677,7 @@
     "room": "Tate Hall B55",
     "instructor": "Xianghan Xu",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "24430": {
     "class_nbr": "24430",
@@ -1097,7 +1097,7 @@
     "room": "Tate Hall B61",
     "instructor": "Ziane Izri, / Abhinaya Sinha",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "22617": {
     "class_nbr": "22617",
@@ -1147,7 +1147,7 @@
     "room": "Tate Hall B61",
     "instructor": "Ziane Izri",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24564": {
     "class_nbr": "24564",
@@ -1237,7 +1237,7 @@
     "room": "Tate Hall B23",
     "instructor": "Lindsay Glesener, / Xiaolong Shen",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "24572": {
     "class_nbr": "24572",
@@ -1457,7 +1457,7 @@
     "room": "Tate Hall B61",
     "instructor": "Xianghan Xu, / Zhe Yu",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "24431": {
     "class_nbr": "24431",
@@ -1597,7 +1597,7 @@
     "room": "Tate Hall B20 / Room TBA",
     "instructor": "Lindsay Glesener / To be Announced",
     "meeting_dates": "09/08/2026 - 12/16/2026 / 09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "23410": {
     "class_nbr": "23410",
