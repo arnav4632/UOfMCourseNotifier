@@ -597,7 +597,7 @@
     "room": "Blegen Hall 215",
     "instructor": "Alexander McLeod",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "23452": {
     "class_nbr": "23452",
@@ -617,7 +617,7 @@
     "room": "Nils Hasselmo Hall 2-101",
     "instructor": "Alexander McLeod",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "23658": {
     "class_nbr": "23658",
@@ -1377,7 +1377,7 @@
     "room": "Tate Hall B26",
     "instructor": "Alexander McLeod, / Allison Schroeder",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "23413": {
     "class_nbr": "23413",
@@ -1397,7 +1397,7 @@
     "room": "Tate Hall B23",
     "instructor": "Alexander McLeod, / Kaylyn Cove",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "23659": {
     "class_nbr": "23659",
