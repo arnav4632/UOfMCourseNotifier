@@ -127,7 +127,7 @@
     "room": "Blegen Hall 425",
     "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24124": {
     "class_nbr": "24124",
@@ -667,7 +667,7 @@
     "room": "Tate Hall B45",
     "instructor": "Xianghan Xu",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "24428": {
     "class_nbr": "24428",
@@ -907,7 +907,7 @@
     "room": "Tate Hall B26",
     "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24125": {
     "class_nbr": "24125",
@@ -1447,7 +1447,7 @@
     "room": "Tate Hall B61",
     "instructor": "Xianghan Xu, / Trevor Blodgett",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "24429": {
     "class_nbr": "24429",
