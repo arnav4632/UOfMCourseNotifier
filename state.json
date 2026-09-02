@@ -74,7 +74,7 @@
     "section_number": "124",
     "component": "DIS",
     "days_times": "Th 9:05AM - 9:55AM",
-    "room": "Tate Hall B45",
+    "room": "Vincent Hall 2",
     "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
@@ -94,7 +94,7 @@
     "section_number": "128",
     "component": "DIS",
     "days_times": "Th 9:05AM - 9:55AM",
-    "room": "Vincent Hall 2",
+    "room": "Tate Hall B45",
     "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
@@ -104,7 +104,7 @@
     "section_number": "130",
     "component": "DIS",
     "days_times": "Th 10:10AM - 11:00AM",
-    "room": "Blegen Hall 130",
+    "room": "Vincent Hall 113",
     "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
