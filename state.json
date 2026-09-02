@@ -204,7 +204,7 @@
     "section_number": "220",
     "component": "DIS",
     "days_times": "Th 9:05AM - 9:55AM",
-    "room": "Bruininks Hall 117",
+    "room": "Vincent Hall 301",
     "instructor": "Maxim Pospelov",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
@@ -214,7 +214,7 @@
     "section_number": "222",
     "component": "DIS",
     "days_times": "Th 9:05AM - 9:55AM",
-    "room": "Vincent Hall 209",
+    "room": "Vincent Hall 211",
     "instructor": "Maxim Pospelov",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
@@ -224,7 +224,7 @@
     "section_number": "224",
     "component": "DIS",
     "days_times": "Th 9:05AM - 9:55AM",
-    "room": "Vincent Hall 301",
+    "room": "Bruininks Hall 117",
     "instructor": "Maxim Pospelov",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
@@ -244,7 +244,7 @@
     "section_number": "228",
     "component": "DIS",
     "days_times": "Th 9:05AM - 9:55AM",
-    "room": "Vincent Hall 211",
+    "room": "Vincent Hall 209",
     "instructor": "Maxim Pospelov",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
@@ -354,7 +354,7 @@
     "section_number": "320",
     "component": "DIS",
     "days_times": "Th 11:15AM - 12:05PM",
-    "room": "Smith Hall 111",
+    "room": "Vincent Hall 211",
     "instructor": "Ziane Izri",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
@@ -384,7 +384,7 @@
     "section_number": "326",
     "component": "DIS",
     "days_times": "Th 11:15AM - 12:05PM",
-    "room": "Blegen Hall 140",
+    "room": "216 Pillsbury Drive 345",
     "instructor": "Ziane Izri",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
@@ -394,7 +394,7 @@
     "section_number": "328",
     "component": "DIS",
     "days_times": "Th 11:15AM - 12:05PM",
-    "room": "Vincent Hall 211",
+    "room": "Smith Hall 111",
     "instructor": "Ziane Izri",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
@@ -454,7 +454,7 @@
     "section_number": "410",
     "component": "DIS",
     "days_times": "Th 11:15AM - 12:05PM",
-    "room": "Blegen Hall 110",
+    "room": "216 Pillsbury Drive 355",
     "instructor": "Lindsay Glesener",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
@@ -464,7 +464,7 @@
     "section_number": "412",
     "component": "DIS",
     "days_times": "Th 11:15AM - 12:05PM",
-    "room": "Hubert H. Humphrey School 15",
+    "room": "Bruininks Hall 432",
     "instructor": "Lindsay Glesener",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
@@ -474,7 +474,7 @@
     "section_number": "414",
     "component": "DIS",
     "days_times": "Th 11:15AM - 12:05PM",
-    "room": "Hubert H. Humphrey School 35",
+    "room": "Smith Hall 331",
     "instructor": "Lindsay Glesener",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
@@ -584,7 +584,7 @@
     "section_number": "520",
     "component": "DIS",
     "days_times": "Th 2:30PM - 3:20PM",
-    "room": "Appleby Hall 319",
+    "room": "Civil Engineering Bldg 213",
     "instructor": "Alexander McLeod",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
@@ -594,7 +594,7 @@
     "section_number": "522",
     "component": "DIS",
     "days_times": "Th 2:30PM - 3:20PM",
-    "room": "Blegen Hall 215",
+    "room": "Ford Hall 110",
     "instructor": "Alexander McLeod",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
@@ -604,7 +604,7 @@
     "section_number": "524",
     "component": "DIS",
     "days_times": "Th 2:30PM - 3:20PM",
-    "room": "Civil Engineering Bldg 213",
+    "room": "Appleby Hall 319",
     "instructor": "Alexander McLeod",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
@@ -704,7 +704,7 @@
     "section_number": "620",
     "component": "DIS",
     "days_times": "Th 5:45PM - 6:35PM",
-    "room": "Tate Hall B55",
+    "room": "Vincent Hall 213",
     "instructor": "Xianghan Xu",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
@@ -714,7 +714,7 @@
     "section_number": "622",
     "component": "DIS",
     "days_times": "Th 5:45PM - 6:35PM",
-    "room": "Ford Hall 155",
+    "room": "Tate Hall B55",
     "instructor": "Xianghan Xu",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
@@ -724,7 +724,7 @@
     "section_number": "624",
     "component": "DIS",
     "days_times": "Th 5:45PM - 6:35PM",
-    "room": "Vincent Hall 213",
+    "room": "Ford Hall 155",
     "instructor": "Xianghan Xu",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
