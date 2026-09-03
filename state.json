@@ -14,7 +14,7 @@
     "section_number": "112",
     "component": "DIS",
     "days_times": "Th 8:00AM - 8:50AM",
-    "room": "Tate Hall B55",
+    "room": "Blegen Hall 210",
     "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
@@ -44,7 +44,7 @@
     "section_number": "118",
     "component": "DIS",
     "days_times": "Th 8:00AM - 8:50AM",
-    "room": "Smith Hall 111",
+    "room": "Blegen Hall 105",
     "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
@@ -64,7 +64,7 @@
     "section_number": "122",
     "component": "DIS",
     "days_times": "Th 9:05AM - 9:55AM",
-    "room": "Vincent Hall 364",
+    "room": "Blegen Hall 105",
     "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
@@ -84,7 +84,7 @@
     "section_number": "126",
     "component": "DIS",
     "days_times": "Th 9:05AM - 9:55AM",
-    "room": "Peik Hall 165",
+    "room": "Blegen Hall 205",
     "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
@@ -154,7 +154,7 @@
     "section_number": "210",
     "component": "DIS",
     "days_times": "Th 8:00AM - 8:50AM",
-    "room": "Vincent Hall 213",
+    "room": "Blegen Hall 205",
     "instructor": "Maxim Pospelov",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
@@ -184,7 +184,7 @@
     "section_number": "216",
     "component": "DIS",
     "days_times": "Th 8:00AM - 8:50AM",
-    "room": "Vincent Hall 209",
+    "room": "Blegen Hall 260",
     "instructor": "Maxim Pospelov",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
@@ -194,7 +194,7 @@
     "section_number": "218",
     "component": "DIS",
     "days_times": "Th 8:00AM - 8:50AM",
-    "room": "Ford Hall 155",
+    "room": "Blegen Hall 125",
     "instructor": "Maxim Pospelov",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
@@ -234,7 +234,7 @@
     "section_number": "226",
     "component": "DIS",
     "days_times": "Th 9:05AM - 9:55AM",
-    "room": "Vincent Hall 113",
+    "room": "Blegen Hall 225",
     "instructor": "Maxim Pospelov",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
@@ -244,7 +244,7 @@
     "section_number": "228",
     "component": "DIS",
     "days_times": "Th 9:05AM - 9:55AM",
-    "room": "Vincent Hall 209",
+    "room": "Blegen Hall 125",
     "instructor": "Maxim Pospelov",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
@@ -739,6 +739,16 @@
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
+  "24132": {
+    "class_nbr": "24132",
+    "section_number": "628",
+    "component": "DIS",
+    "days_times": "Th 5:45PM - 6:35PM",
+    "room": "Vincent Hall 209",
+    "instructor": "Xianghan Xu",
+    "meeting_dates": "09/08/2026 - 12/16/2026",
+    "status": "Open"
+  },
   "24432": {
     "class_nbr": "24432",
     "section_number": "630",
@@ -778,6 +788,16 @@
     "instructor": "Xianghan Xu",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
+  },
+  "24599": {
+    "class_nbr": "24599",
+    "section_number": "638",
+    "component": "DIS",
+    "days_times": "Th 6:50PM - 7:40PM",
+    "room": "Tate Hall B45",
+    "instructor": "Xianghan Xu",
+    "meeting_dates": "09/08/2026 - 12/16/2026",
+    "status": "Open"
   },
   "24510": {
     "class_nbr": "24510",
@@ -1519,6 +1539,16 @@
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
   },
+  "24133": {
+    "class_nbr": "24133",
+    "section_number": "629",
+    "component": "LAB",
+    "days_times": "Th 10:10AM - 12:05PM",
+    "room": "Tate Hall B26",
+    "instructor": "Xianghan Xu",
+    "meeting_dates": "09/08/2026 - 12/16/2026",
+    "status": "Open"
+  },
   "24433": {
     "class_nbr": "24433",
     "section_number": "631",
@@ -1558,6 +1588,16 @@
     "instructor": "Xianghan Xu, / Besi Lajci",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
+  },
+  "24600": {
+    "class_nbr": "24600",
+    "section_number": "639",
+    "component": "LAB",
+    "days_times": "Fr 5:45PM - 7:40PM",
+    "room": "Tate Hall B23",
+    "instructor": "Xianghan Xu",
+    "meeting_dates": "09/08/2026 - 12/16/2026",
+    "status": "Open"
   },
   "22628": {
     "class_nbr": "22628",
