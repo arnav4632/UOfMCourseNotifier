@@ -617,7 +617,7 @@
     "room": "Nils Hasselmo Hall 2-101",
     "instructor": "Alexander McLeod",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "23658": {
     "class_nbr": "23658",
@@ -767,7 +767,7 @@
     "room": "Ford Hall 170",
     "instructor": "Xianghan Xu",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "24595": {
     "class_nbr": "24595",
@@ -1417,7 +1417,7 @@
     "room": "Tate Hall B23",
     "instructor": "Alexander McLeod, / Kaylyn Cove",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "23659": {
     "class_nbr": "23659",
@@ -1567,7 +1567,7 @@
     "room": "Tate Hall B63",
     "instructor": "Xianghan Xu, / Trevor Blodgett",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "24596": {
     "class_nbr": "24596",
