@@ -97,7 +97,7 @@
     "room": "Tate Hall B45",
     "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "22325": {
     "class_nbr": "22325",
@@ -127,7 +127,7 @@
     "room": "Blegen Hall 425",
     "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24124": {
     "class_nbr": "24124",
@@ -897,7 +897,7 @@
     "room": "Tate Hall B23",
     "instructor": "Jeremiah Mans, / Amandeep Basra",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "22326": {
     "class_nbr": "22326",
@@ -927,7 +927,7 @@
     "room": "Tate Hall B26",
     "instructor": "Jeremiah Mans, / Owen Odney",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24125": {
     "class_nbr": "24125",
