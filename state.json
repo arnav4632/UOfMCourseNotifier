@@ -297,7 +297,7 @@
     "room": "Blegen Hall 145",
     "instructor": "Maxim Pospelov",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "22330": {
     "class_nbr": "22330",
@@ -464,7 +464,7 @@
     "section_number": "412",
     "component": "DIS",
     "days_times": "Th 11:15AM - 12:05PM",
-    "room": "Bruininks Hall 432",
+    "room": "Tate Hall 101",
     "instructor": "Lindsay Glesener",
     "meeting_dates": "09/08/2026 - 12/16/2026",
     "status": "Closed"
@@ -617,7 +617,7 @@
     "room": "Nils Hasselmo Hall 2-101",
     "instructor": "Alexander McLeod",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "23658": {
     "class_nbr": "23658",
@@ -687,7 +687,7 @@
     "room": "Vincent Hall 209",
     "instructor": "Xianghan Xu",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "24589": {
     "class_nbr": "24589",
@@ -1097,7 +1097,7 @@
     "room": "Tate Hall B26",
     "instructor": "Maxim Pospelov, / Manvel Abrahamyan",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "22331": {
     "class_nbr": "22331",
@@ -1417,7 +1417,7 @@
     "room": "Tate Hall B23",
     "instructor": "Alexander McLeod, / Kaylyn Cove",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "23659": {
     "class_nbr": "23659",
@@ -1487,7 +1487,7 @@
     "room": "Tate Hall B63",
     "instructor": "Xianghan Xu, / Besi Lajci",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "24590": {
     "class_nbr": "24590",
