@@ -231,7 +231,7 @@ FIELDS_TO_COMPARE = ["section_number", "component", "days_times", "room", "instr
 
 # Only these trigger @everyone; other changes still get posted, just quietly.
 PRIORITY_COMPONENT = "LAB"
-PRIORITY_NUMBERS= ["421","431","433","515","517","527","531","537"]
+PRIORITY_NUMBERS= ["421","531"]
 
 
 def _is_priority(section: dict) -> bool:
