@@ -257,7 +257,7 @@
     "room": "Vincent Hall 211",
     "instructor": "Maxim Pospelov",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "23689": {
     "class_nbr": "23689",
@@ -297,7 +297,7 @@
     "room": "Blegen Hall 145",
     "instructor": "Maxim Pospelov",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "22330": {
     "class_nbr": "22330",
@@ -707,7 +707,7 @@
     "room": "Vincent Hall 213",
     "instructor": "Xianghan Xu",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "23875": {
     "class_nbr": "23875",
@@ -737,7 +737,7 @@
     "room": "Tate Hall B45",
     "instructor": "Xianghan Xu",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24132": {
     "class_nbr": "24132",
@@ -767,7 +767,7 @@
     "room": "Ford Hall 170",
     "instructor": "Xianghan Xu",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24595": {
     "class_nbr": "24595",
@@ -1057,7 +1057,7 @@
     "room": "Tate Hall B61",
     "instructor": "Maxim Pospelov, / Sabrina Ilham",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "23657": {
     "class_nbr": "23657",
@@ -1097,7 +1097,7 @@
     "room": "Tate Hall B26",
     "instructor": "Maxim Pospelov, / Manvel Abrahamyan",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "22331": {
     "class_nbr": "22331",
@@ -1507,7 +1507,7 @@
     "room": "Tate Hall B61",
     "instructor": "Xianghan Xu, / Besi Lajci",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "23876": {
     "class_nbr": "23876",
@@ -1537,7 +1537,7 @@
     "room": "Tate Hall B23",
     "instructor": "Xianghan Xu, / Joseph Murphy",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24133": {
     "class_nbr": "24133",
@@ -1567,7 +1567,7 @@
     "room": "Tate Hall B63",
     "instructor": "Xianghan Xu, / Trevor Blodgett",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24596": {
     "class_nbr": "24596",
