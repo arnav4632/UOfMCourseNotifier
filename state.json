@@ -707,7 +707,7 @@
     "room": "Vincent Hall 213",
     "instructor": "Xianghan Xu",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "23875": {
     "class_nbr": "23875",
@@ -767,7 +767,7 @@
     "room": "Ford Hall 170",
     "instructor": "Xianghan Xu",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "24595": {
     "class_nbr": "24595",
@@ -1507,7 +1507,7 @@
     "room": "Tate Hall B61",
     "instructor": "Xianghan Xu, / Besi Lajci",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "23876": {
     "class_nbr": "23876",
@@ -1567,7 +1567,7 @@
     "room": "Tate Hall B63",
     "instructor": "Xianghan Xu, / Trevor Blodgett",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "24596": {
     "class_nbr": "24596",
