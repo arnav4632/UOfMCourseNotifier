@@ -117,7 +117,7 @@
     "room": "Blegen Hall 415",
     "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24017": {
     "class_nbr": "24017",
@@ -257,7 +257,7 @@
     "room": "Vincent Hall 211",
     "instructor": "Maxim Pospelov",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "23689": {
     "class_nbr": "23689",
@@ -617,7 +617,7 @@
     "room": "Nils Hasselmo Hall 2-101",
     "instructor": "Alexander McLeod",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "23658": {
     "class_nbr": "23658",
@@ -707,7 +707,7 @@
     "room": "Vincent Hall 213",
     "instructor": "Xianghan Xu",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "23875": {
     "class_nbr": "23875",
@@ -917,7 +917,7 @@
     "room": "Tate Hall B26",
     "instructor": "Jeremiah Mans, / Peter Vasterling",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24018": {
     "class_nbr": "24018",
@@ -1057,7 +1057,7 @@
     "room": "Tate Hall B61",
     "instructor": "Maxim Pospelov, / Sabrina Ilham",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "23657": {
     "class_nbr": "23657",
@@ -1417,7 +1417,7 @@
     "room": "Tate Hall B23",
     "instructor": "Alexander McLeod, / Kaylyn Cove",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "23659": {
     "class_nbr": "23659",
@@ -1507,7 +1507,7 @@
     "room": "Tate Hall B61",
     "instructor": "Xianghan Xu, / Besi Lajci",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "23876": {
     "class_nbr": "23876",
