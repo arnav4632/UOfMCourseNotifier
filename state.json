@@ -77,7 +77,7 @@
     "room": "Vincent Hall 2",
     "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24521": {
     "class_nbr": "24521",
@@ -147,7 +147,7 @@
     "room": "Keller Hall 3-115",
     "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "22332": {
     "class_nbr": "22332",
@@ -797,7 +797,7 @@
     "room": "Tate Hall B45",
     "instructor": "Xianghan Xu",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24510": {
     "class_nbr": "24510",
@@ -877,7 +877,7 @@
     "room": "Tate Hall B23",
     "instructor": "Jeremiah Mans, / Isabella Bruzzese",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24522": {
     "class_nbr": "24522",
@@ -947,7 +947,7 @@
     "room": "Tate Hall B23",
     "instructor": "Jeremiah Mans, / Amandeep Basra",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "22333": {
     "class_nbr": "22333",
@@ -1597,7 +1597,7 @@
     "room": "Tate Hall B23",
     "instructor": "Xianghan Xu, / Joseph Murphy",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "22628": {
     "class_nbr": "22628",
