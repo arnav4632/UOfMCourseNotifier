@@ -147,7 +147,7 @@
     "room": "Keller Hall 3-115",
     "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "22332": {
     "class_nbr": "22332",
@@ -157,7 +157,7 @@
     "room": "Blegen Hall 205",
     "instructor": "Maxim Pospelov",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "23686": {
     "class_nbr": "23686",
@@ -747,7 +747,7 @@
     "room": "Vincent Hall 209",
     "instructor": "Xianghan Xu",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24432": {
     "class_nbr": "24432",
@@ -947,7 +947,7 @@
     "room": "Tate Hall B23",
     "instructor": "Jeremiah Mans, / Amandeep Basra",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "22333": {
     "class_nbr": "22333",
@@ -957,7 +957,7 @@
     "room": "Tate Hall B26",
     "instructor": "Maxim Pospelov",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "23771": {
     "class_nbr": "23771",
@@ -1547,7 +1547,7 @@
     "room": "Tate Hall B26",
     "instructor": "Xianghan Xu, / Adam Jarski",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24433": {
     "class_nbr": "24433",
