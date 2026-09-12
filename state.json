@@ -47,7 +47,7 @@
     "room": "Blegen Hall 105",
     "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24515": {
     "class_nbr": "24515",
@@ -557,7 +557,7 @@
     "room": "Bruininks Hall 119",
     "instructor": "Alexander McLeod",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24128": {
     "class_nbr": "24128",
@@ -847,7 +847,7 @@
     "room": "Tate Hall B26",
     "instructor": "Jeremiah Mans, / Peter Vasterling",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24516": {
     "class_nbr": "24516",
@@ -1357,7 +1357,7 @@
     "room": "Tate Hall B26",
     "instructor": "Alexander McLeod, / Allison Schroeder",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24129": {
     "class_nbr": "24129",
