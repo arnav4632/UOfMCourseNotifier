@@ -47,7 +47,7 @@
     "room": "Blegen Hall 105",
     "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "24515": {
     "class_nbr": "24515",
@@ -57,7 +57,7 @@
     "room": "Vincent Hall 207",
     "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24517": {
     "class_nbr": "24517",
@@ -77,7 +77,7 @@
     "room": "Vincent Hall 2",
     "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "24521": {
     "class_nbr": "24521",
@@ -847,7 +847,7 @@
     "room": "Tate Hall B26",
     "instructor": "Jeremiah Mans, / Peter Vasterling",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "24516": {
     "class_nbr": "24516",
@@ -857,7 +857,7 @@
     "room": "Tate Hall B61",
     "instructor": "Jeremiah Mans, / Kelsey Henry",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24518": {
     "class_nbr": "24518",
@@ -877,7 +877,7 @@
     "room": "Tate Hall B23",
     "instructor": "Jeremiah Mans, / Isabella Bruzzese",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "24522": {
     "class_nbr": "24522",
