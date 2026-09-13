@@ -47,7 +47,7 @@
     "room": "Blegen Hall 105",
     "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24515": {
     "class_nbr": "24515",
@@ -107,7 +107,7 @@
     "room": "Vincent Hall 113",
     "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "22327": {
     "class_nbr": "22327",
@@ -427,7 +427,7 @@
     "room": "Amundson Hall 156",
     "instructor": "Ziane Izri",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "22334": {
     "class_nbr": "22334",
@@ -557,7 +557,7 @@
     "room": "Bruininks Hall 119",
     "instructor": "Alexander McLeod",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "24128": {
     "class_nbr": "24128",
@@ -847,7 +847,7 @@
     "room": "Tate Hall B26",
     "instructor": "Jeremiah Mans, / Peter Vasterling",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24516": {
     "class_nbr": "24516",
@@ -907,7 +907,7 @@
     "room": "Tate Hall B26",
     "instructor": "Jeremiah Mans, / Isabella Bruzzese",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "22328": {
     "class_nbr": "22328",
@@ -1227,7 +1227,7 @@
     "room": "Tate Hall B61",
     "instructor": "Ziane Izri, / Brendan King",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "22335": {
     "class_nbr": "22335",
@@ -1357,7 +1357,7 @@
     "room": "Tate Hall B26",
     "instructor": "Alexander McLeod, / Allison Schroeder",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "24129": {
     "class_nbr": "24129",
