@@ -257,7 +257,7 @@
     "room": "Vincent Hall 211",
     "instructor": "Maxim Pospelov",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "23689": {
     "class_nbr": "23689",
@@ -747,7 +747,7 @@
     "room": "Vincent Hall 209",
     "instructor": "Xianghan Xu",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24432": {
     "class_nbr": "24432",
@@ -797,7 +797,7 @@
     "room": "Tate Hall B45",
     "instructor": "Xianghan Xu",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24510": {
     "class_nbr": "24510",
@@ -1057,7 +1057,7 @@
     "room": "Tate Hall B61",
     "instructor": "Maxim Pospelov, / Sabrina Ilham",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "23657": {
     "class_nbr": "23657",
@@ -1547,7 +1547,7 @@
     "room": "Tate Hall B26",
     "instructor": "Xianghan Xu, / Adam Jarski",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24433": {
     "class_nbr": "24433",
@@ -1597,7 +1597,7 @@
     "room": "Tate Hall B23",
     "instructor": "Xianghan Xu, / Joseph Murphy",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "22628": {
     "class_nbr": "22628",
