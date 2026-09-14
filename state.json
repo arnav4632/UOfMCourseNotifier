@@ -127,7 +127,7 @@
     "room": "Blegen Hall 425",
     "instructor": "Jeremiah Mans",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "24124": {
     "class_nbr": "24124",
@@ -327,7 +327,7 @@
     "room": "Amundson Hall 104",
     "instructor": "Ziane Izri",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24555": {
     "class_nbr": "24555",
@@ -427,7 +427,7 @@
     "room": "Amundson Hall 156",
     "instructor": "Ziane Izri",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "22334": {
     "class_nbr": "22334",
@@ -927,7 +927,7 @@
     "room": "Tate Hall B26",
     "instructor": "Jeremiah Mans, / Owen Odney",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Open"
+    "status": "Closed"
   },
   "24125": {
     "class_nbr": "24125",
@@ -1127,7 +1127,7 @@
     "room": "Tate Hall B61",
     "instructor": "Ziane Izri, / Hokyeong Nam",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24556": {
     "class_nbr": "24556",
@@ -1227,7 +1227,7 @@
     "room": "Tate Hall B61",
     "instructor": "Ziane Izri, / Brendan King",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "22335": {
     "class_nbr": "22335",
