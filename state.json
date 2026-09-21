@@ -627,7 +627,7 @@
     "room": "Tate Hall B55",
     "instructor": "Alexander McLeod",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24403": {
     "class_nbr": "24403",
@@ -647,7 +647,7 @@
     "room": "Amundson Hall 104",
     "instructor": "Alexander McLeod",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24586": {
     "class_nbr": "24586",
@@ -1427,7 +1427,7 @@
     "room": "Tate Hall B61",
     "instructor": "Alexander McLeod, / Jarrett Fein",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24404": {
     "class_nbr": "24404",
@@ -1447,7 +1447,7 @@
     "room": "Tate Hall B61",
     "instructor": "Alexander McLeod, / Elliott Robb Tanner",
     "meeting_dates": "09/08/2026 - 12/16/2026",
-    "status": "Closed"
+    "status": "Open"
   },
   "24587": {
     "class_nbr": "24587",
